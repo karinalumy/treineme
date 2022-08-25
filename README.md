@@ -1,4 +1,4 @@
-# Acessibility Challenge - Treine me 
+# Accessibility Challenge - Treine me 
 
 This is the challenge that I did in the Stage 2 of the Rockeatset course. </br>
 In this challenge I had to work with HTML, CSS and think about the accessibility.
